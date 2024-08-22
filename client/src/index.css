@@ -1,0 +1,38 @@
+body {
+  background-color: #e3f2fd; /* Light blue background */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #0d47a1; /* Dark blue text color */
+}
+
+h1 {
+  font-size: 28px; /* Slightly larger font size for better visibility */
+  color: #1565c0; /* Vibrant blue color */
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold; /* Make the text bold */
+}
+
+/* Additional styles for overall appearance */
+a {
+  color: #1976d2; /* Bright blue for links */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Styles for buttons and other interactive elements */
+.button {
+  background-color: #42a5f5; /* Light blue button color */
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}
