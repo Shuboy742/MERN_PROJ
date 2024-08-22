@@ -26,7 +26,7 @@ To set up the project locally, follow these steps:
    
 3.Install dependencies for the client and server:
   <br>cd client</br>
-  <br>npm install</br>
+  npm install
   <br>cd ..</br>
   <br>cd server</br>
   <br>npm install</br>
