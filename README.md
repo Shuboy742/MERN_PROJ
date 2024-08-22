@@ -25,18 +25,18 @@ To set up the project locally, follow these steps:
    <br>cd Roxiler_MERN_proj</br>
    
 3.Install dependencies for the client and server:
-  cd client
-  npm install
-  cd ..
-  cd server
-  npm install
+  <br>cd client</br>
+  <br>npm install</br>
+  <br>cd ..</br>
+  <br>cd server</br>
+  <br>npm install</br>
 
 4.Start the development server:
- cd client
- npm start
- cd ..
- cd server
- npm start
+ <br>cd client</br>
+ <br>npm start</br>
+ <br>cd ..</br>
+ <br>cd server</br>
+ <br>npm start</br>
 
 #Here are some images of the website to give you an idea of its appearance:
 
