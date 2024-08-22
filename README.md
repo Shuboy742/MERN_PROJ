@@ -22,21 +22,21 @@ To set up the project locally, follow these steps:
    git clone https://github.com/Shuboy742/Roxiler_MERN_proj.git
    
 2. Navigate to the project directory:
-   <br>cd Roxiler_MERN_proj</br>
+   <br>cd Roxiler_MERN_proj<br/>
    
 3.Install dependencies for the client and server:
-  <br>cd client</br>
-  npm install
-  cd ..
-  cd server
-  npm install
+  <br>cd client<br/>
+  <br>npm install<br/>
+  <br>cd ..<br/>
+  <br>cd server<br/>
+  <br>npm install<br/>
 
 4.Start the development server:
- <br>cd client</br>
- <br>npm start</br>
+ <br>cd client<br/>
+ <br>npm start<br/>
  <br>cd ..</br>
- <br>cd server</br>
- <br>npm start</br>
+ <br>cd server<br/>
+ <br>npm start<br/>
 
 #Here are some images of the website to give you an idea of its appearance:
 
