@@ -41,15 +41,21 @@ To set up the project locally, follow these steps:
 #Here are some images of the website to give you an idea of its appearance:
 
 1)Dashboard Overview-
+
 ![1](https://github.com/user-attachments/assets/1d44ce6c-7097-4c0d-ba01-e1f51904f0d9)
+
 ![2](https://github.com/user-attachments/assets/cc404a93-a3e0-4ca1-9786-7eb3722c739f)
 
 
 2)Bar Chart Visualization-
+
 ![3](https://github.com/user-attachments/assets/c08e117a-879b-4ae1-a00c-07c3741ea67d)
+
 ![4](https://github.com/user-attachments/assets/fed6a037-5db4-4380-a83c-90ab2aea6d06)
 
 
 3)Pie Chart Visualization-
+
 ![5](https://github.com/user-attachments/assets/9ef66973-27d1-4205-b0fd-0cb109b47e69)
+
 ![6](https://github.com/user-attachments/assets/6c58b7bb-b9c9-4417-a9d2-288fc03c6ab8)
