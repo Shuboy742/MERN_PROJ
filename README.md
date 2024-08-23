@@ -32,11 +32,11 @@ To set up the project locally, follow these steps:
   <br>npm install
 
  4.Start the development server:
- <br>cd client<br/>
- <br>npm start<br/>
- <br>cd ..</br>
- <br>cd server<br/>
- <br>npm start<br/>
+ <br>cd client
+ <br>npm start
+ <br>cd ..
+ <br>cd server
+ <br>npm start
 
 #Here are some images of the website to give you an idea of its appearance:
 
