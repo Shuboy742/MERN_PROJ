@@ -1,4 +1,4 @@
-# Roxiler Financial Overview
+# Financial Insights Dashboard
 
 ## Introduction
 Roxiler Financial Overview is a web application designed as part of the MERN Stack Coding Challenge. It provides a comprehensive view of financial transactions through an interactive and visually appealing dashboard.
